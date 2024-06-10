@@ -10,7 +10,7 @@ DISCRIPTION :
 
 This implementation ensures a visually appealing and responsive hero section on a landing page by leveraging Bootstrap's grid system and custom CSS for styling. The use of container and column classes in Bootstrap provides layout consistency across different devices, while CSS enhancements like background images and overlay effects add visual appeaL
 
-Build a Navbar with Dropdown Menu: Create a navigation bar using
+2. Build a Navbar with Dropdown Menu: Create a navigation bar using
 Bootstrap's navbar component. Add a dropdown menu to the navbar using
 Bootstrap's dropdown classes. Customize the CSS to style the navbar and
 dropdown menu, such as changing colors and positioning.
